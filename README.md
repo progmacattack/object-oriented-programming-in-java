@@ -1,11 +1,11 @@
-# object-oriented-programming-in-java
+### object-oriented-programming-in-java
 Summary
 ========
 This is my extension of the earthquake app built for this class. It draws a threat radius circle around earthquakes that are pulled from a data feed. This program extends on the earthquake threat radius concept introduced in this coursera course.
 By clicking a button, all markers disappear except those representing the strongest earthquakes. 
 A threat radius for each of these markers is drawn, giving the user a quick view of the entire area potentially affected by an earthquake.
 
-![Project Screenshot](http://imgur.com/a/elxuX)
+![Project Screenshot](http://i.imgur.com/hsa8jfM.jpg)
 
 
 
